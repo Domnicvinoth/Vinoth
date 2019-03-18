@@ -1,9 +1,9 @@
 package PackOne;
 
-public class BasecTwo {
+public class TC_01 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("lo");
+		System.out.println("branch1");
 	}
 }
